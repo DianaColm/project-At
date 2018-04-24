@@ -1,0 +1,42 @@
+﻿{
+  "users": [
+    {
+     "id_Client": 55536642,
+  "secret_id": "nT4cI5qE0"
+    },
+    {
+      "id_Client": 55536643,
+  "secret_id": "nT4cI5qE1"
+    },
+    {
+     "id_Client": 55536644,
+ "secret_id": "nT4cI5qE2"
+    }
+  ],
+  "pointBalance": [
+      {
+  "id_Client": 55536642,
+  "availablePointBalance": 5000,
+  "programConversionRate": 0.2521,
+  "currencyCode": "SGD",
+  "maximumPointsToRedeem": 1000,
+  "minimumPointsToRedeem": 9000
+},
+    {
+      "id_Client": 55536643,
+  "availablePointBalance": 11000,
+  "programConversionRate": 0.2521,
+  "currencyCode": "SGD",
+  "maximumPointsToRedeem": 10000,
+  "minimumPointsToRedeem": 8000
+    },
+    {
+      "id_Client": 55536644,
+  "availablePointBalance": 15000,
+  "programConversionRate": 0.2521,
+  "currencyCode": "SGD",
+  "maximumPointsToRedeem": 10000,
+  "minimumPointsToRedeem": 7000
+    }
+  ]
+}
